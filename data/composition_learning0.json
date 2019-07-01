@@ -1,0 +1,2797 @@
+[
+  {
+    "Id": "42-19a99857c1e6480ab60ada23079141f8.json.636702977497859030",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T17:49:09.786997+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I am looking for a medium priced restaurant",
+        "Time": "2018-08-19T17:49:56.226366+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T17:49:56.572454+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurant",
+        "Time": "2018-08-19T17:50:12.64869+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T17:50:12.705063+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "tell me names of medium priced restaurant",
+        "Time": "2018-08-19T17:50:22.783048+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T17:50:23.019042+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T17:50:23.019572+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "27-0c6591a9cd804f3aa0f4f4098eb98fe5.json.636702978361169890",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T17:50:36.118095+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Hello. I’d like to find some mid priced restaurants please.",
+        "Time": "2018-08-19T17:51:02.843374+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T17:51:03.207677+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "show me medium priced restaurants",
+        "Time": "2018-08-19T17:51:20.694531+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T17:51:20.842744+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T17:51:20.842805+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "43-8a9dd3ce65f548ef8d3a2d959f01bf42.json.636702991292173980",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:12:09.239137+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a mid priced restaurant.",
+        "Time": "2018-08-19T18:13:34.778823+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:13:35.112427+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:13:35.113238+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "48-8a9dd3ce65f548ef8d3a2d959f01bf42.json.636702992643354030",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:14:24.336626+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a mid priced restaurant",
+        "Time": "2018-08-19T18:14:48.190278+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:14:48.454371+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:14:48.454433+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "20-7e22f5d315ba4f119001c4268d8bae2c.json.636702994266516320",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:17:06.652928+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "where can i find a medium priced restaurant?",
+        "Time": "2018-08-19T18:18:44.435411+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:18:44.678932+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:18:44.67899+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "15-7e22f5d315ba4f119001c4268d8bae2c.json.636702995532253490",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:19:13.226556+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "i need a name of some medium priced restaurant",
+        "Time": "2018-08-19T18:20:18.040531+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:20:18.953712+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:20:18.953779+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "10-b834a9855e714b289c4ad1c817c198ce.json.636703011294545100",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:45:29.476374+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I am looking for a restaurant in the medium price range",
+        "Time": "2018-08-19T18:46:15.145689+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I'm sorry, the sentence is too long. Try to use simpler sentences please.",
+        "Time": "2018-08-19T18:46:15.151891+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a medium priced restaurant",
+        "Time": "2018-08-19T18:46:32.77735+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:46:33.070402+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:46:33.070776+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Food priced moderate",
+        "Time": "2018-08-19T18:49:52.2879+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So you think, food pricerange is moderate ?",
+        "Time": "2018-08-19T18:49:52.340167+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:49:52.34022+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Yes",
+        "Time": "2018-08-19T18:50:00.714092+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Ok, I'll remember that.",
+        "Time": "2018-08-19T18:50:00.728963+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:50:00.729+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "7-056e70371ccb43778ab02a0a558ef13d.json.636703014799230290",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:51:19.925244+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find medium priced restaurant",
+        "Time": "2018-08-19T18:52:00.153908+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:52:00.272473+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:52:00.272537+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "29-0a01b47360744152832a547a1223845d.json.636703014833928970",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:51:23.394013+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "i would like to find a medium priced restaurant.",
+        "Time": "2018-08-19T18:52:43.561727+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:52:43.786549+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:52:43.78663+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "45-056e70371ccb43778ab02a0a558ef13d.json.636703015650344900",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:52:45.035591+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find medium priced restaurant",
+        "Time": "2018-08-19T18:53:07.921158+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:53:08.046528+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:53:08.046594+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "22-0a01b47360744152832a547a1223845d.json.636703015956124160",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:53:15.613578+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I would like to find a medium priced restaurant.",
+        "Time": "2018-08-19T18:53:50.969909+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:53:51.260448+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:53:51.260527+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "17-e9deb37d24464289a707e5fb744ae827.json.636703017870074060",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:56:27.008498+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I am looking for a restaurant in the medium price range.",
+        "Time": "2018-08-19T18:56:48.867052+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I'm sorry, the sentence is too long. Try to use simpler sentences please.",
+        "Time": "2018-08-19T18:56:48.867873+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Restaurant in medium price range.",
+        "Time": "2018-08-19T18:57:01.627511+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'range' mean?",
+        "Time": "2018-08-19T18:57:01.753369+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Moderate pricerange",
+        "Time": "2018-08-19T18:57:12.800336+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that range means moderate ?",
+        "Time": "2018-08-19T18:57:12.829301+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium price",
+        "Time": "2018-08-19T18:57:22.952461+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T18:57:22.977933+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a medium pricerange restaurant",
+        "Time": "2018-08-19T18:57:41.899958+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:57:42.36452+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:57:42.364584+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "12-e9deb37d24464289a707e5fb744ae827.json.636703019184068270",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T18:58:38.407931+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a medium price restaurant",
+        "Time": "2018-08-19T18:59:03.119405+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T18:59:03.33578+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T18:59:03.335841+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "13-e6ba4f34e8cc4734a4ce82783cf7a13f.json.636703029044738360",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:15:04.474935+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Reccomend a medium priced restaurant.",
+        "Time": "2018-08-19T19:15:49.262443+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'reccomend' mean?",
+        "Time": "2018-08-19T19:15:49.320459+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "To give an example of",
+        "Time": "2018-08-19T19:15:59.724482+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know phrase example. What does it mean?",
+        "Time": "2018-08-19T19:15:59.744913+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a thing like what might be wanted",
+        "Time": "2018-08-19T19:17:01.262649+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know phrase might be wanted. What does it mean?",
+        "Time": "2018-08-19T19:17:01.328225+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "What I ask for",
+        "Time": "2018-08-19T19:17:08.822549+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know phrase for. What does it mean?",
+        "Time": "2018-08-19T19:17:08.847175+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "It shows what the thing is going to",
+        "Time": "2018-08-19T19:17:46.079615+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:17:48.589623+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Medium priced restaurant",
+        "Time": "2018-08-19T19:18:00.344404+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T19:18:00.407869+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "GIve me a name",
+        "Time": "2018-08-19T19:18:06.415989+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:18:06.46791+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Give me a name of a medium priced restaurant",
+        "Time": "2018-08-19T19:18:18.791339+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:18:20.628121+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:18:20.628187+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "30-e6ba4f34e8cc4734a4ce82783cf7a13f.json.636703031389854230",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:18:58.986174+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Tell me the name of a medium priced restarant",
+        "Time": "2018-08-19T19:19:14.301346+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know phrase restarant. What does it mean?",
+        "Time": "2018-08-19T19:19:17.749692+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Tell me the name of a medium priced restaurant",
+        "Time": "2018-08-19T19:19:30.984385+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So you think restarant is restaurant ?",
+        "Time": "2018-08-19T19:19:59.415399+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:19:59.415472+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "30-e6ba4f34e8cc4734a4ce82783cf7a13f.json.636703031994155280",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:19:59.416267+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "",
+        "Time": "2018-08-19T19:19:59.416313+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Please, tell me what should I do.",
+        "Time": "2018-08-19T19:19:59.420256+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: 1, Find a restaurant.",
+        "Time": "2018-08-19T19:19:59.420292+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Tell me the name of a medium priced restaurant",
+        "Time": "2018-08-19T19:20:15.521467+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:20:32.934347+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:20:32.934415+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "23-ae1811bce53648dca1c012483482dac7.json.636703038709239830",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:31:10.925081+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Hi. I'm looking for a medium priced restaurant.",
+        "Time": "2018-08-19T19:31:54.773537+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:31:55.027575+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:31:55.02764+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "0-ae1811bce53648dca1c012483482dac7.json.636703039963081960",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:33:16.309327+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Hi I want to find a medium priced restaurant.",
+        "Time": "2018-08-19T19:33:56.549581+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:33:56.910714+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:33:56.910781+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5-11c6c4a1f2d444bcaefde85ec7cab7d9.json.636703044946984420",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:41:34.767373+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium price restaurant",
+        "Time": "2018-08-19T19:42:36.285062+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T19:42:36.470136+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "search local restaurants",
+        "Time": "2018-08-19T19:43:05.045366+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are local?",
+        "Time": "2018-08-19T19:43:05.090491+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T19:43:14.112086+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I think, It can be pricerange or address. Which fits best the meaning of local?",
+        "Time": "2018-08-19T19:43:14.126981+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "address",
+        "Time": "2018-08-19T19:45:18.709069+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I can recognize Montreal, V Parku, Balleary Street as addresss. Which of them is related to local?",
+        "Time": "2018-08-19T19:45:18.725745+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "balleary street",
+        "Time": "2018-08-19T19:45:38.776894+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I found Caesar Palace",
+        "Time": "2018-08-19T19:45:38.818596+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "ceasar palace",
+        "Time": "2018-08-19T19:46:06.80143+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'ceasar' mean?",
+        "Time": "2018-08-19T19:46:06.829391+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "what price is ceasar palace",
+        "Time": "2018-08-19T19:46:34.053557+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "It is expensive",
+        "Time": "2018-08-19T19:46:34.568812+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "another restaurant near caesar palace thats not so expensive",
+        "Time": "2018-08-19T19:47:13.879705+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'near' mean?",
+        "Time": "2018-08-19T19:47:14.985756+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "nearby",
+        "Time": "2018-08-19T19:47:22.762043+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Still, I'm not getting it. What does near mean?",
+        "Time": "2018-08-19T19:47:22.782091+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "close to",
+        "Time": "2018-08-19T19:47:28.624557+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Still, I'm not getting it. What does near mean?",
+        "Time": "2018-08-19T19:47:28.64334+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "41-76940479121241cc846091637937457a.json.636703047737765710",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:46:13.7777+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "can you tell me the name of a medium-priced restaurant",
+        "Time": "2018-08-19T19:47:08.58633+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are medium-priced?",
+        "Time": "2018-08-19T19:47:08.987993+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T19:47:15.62176+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I think, It can be pricerange or address. Which fits best the meaning of medium-priced?",
+        "Time": "2018-08-19T19:47:15.638373+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "pricerange",
+        "Time": "2018-08-19T19:47:30.420419+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I can recognize cheap, expensive as priceranges. Which of them is related to medium-priced?",
+        "Time": "2018-08-19T19:47:30.435658+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "inbetween the two",
+        "Time": "2018-08-19T19:47:43.648833+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I'm sorry, it did not help me. What does medium-priced mean?",
+        "Time": "2018-08-19T19:47:43.676021+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "more expensive than cheap but less expensive than expensive",
+        "Time": "2018-08-19T19:48:14.482113+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "It is Chinese Bistro",
+        "Time": "2018-08-19T19:48:18.382916+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "so this is medium priced",
+        "Time": "2018-08-19T19:49:25.203616+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So you think, Chinese Bistro pricerange is moderate ?",
+        "Time": "2018-08-19T19:49:25.263413+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "is it?",
+        "Time": "2018-08-19T19:49:45.853347+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T19:49:45.917416+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "can you tell me if Chinese Bistro is a moderate priced restaurant?",
+        "Time": "2018-08-19T19:50:18.698412+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I'm sorry, the sentence is too long. Try to use simpler sentences please.",
+        "Time": "2018-08-19T19:50:18.700252+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "is chinese bistro moderately priced?",
+        "Time": "2018-08-19T19:50:39.457671+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'moderately' mean?",
+        "Time": "2018-08-19T19:50:39.59598+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium",
+        "Time": "2018-08-19T19:50:50.666054+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that moderately means moderate ?",
+        "Time": "2018-08-19T19:50:50.691874+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T19:50:58.668295+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "[NOTE] Too much inputs. The task should be easier - use simple phrases. Type reset to start the dialog from beginning.",
+        "Time": "2018-08-19T19:50:58.668405+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5-11c6c4a1f2d444bcaefde85ec7cab7d9.json.636703048745424750",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:47:54.54366+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "restaurant in montreal",
+        "Time": "2018-08-19T19:48:18.822273+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know restaurant but what should I do?",
+        "Time": "2018-08-19T19:48:18.856037+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "search",
+        "Time": "2018-08-19T19:48:24.923949+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I found Chinese Bistro",
+        "Time": "2018-08-19T19:48:24.936495+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "what price range",
+        "Time": "2018-08-19T19:48:41.814654+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I found cheap",
+        "Time": "2018-08-19T19:48:41.903835+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "search medium price",
+        "Time": "2018-08-19T19:49:02.937967+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:49:03.028488+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "34-d34885a7876e4688ae527ae99be32666.json.636703050151118940",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:50:15.113372+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "looking for a medium priced restaurant",
+        "Time": "2018-08-19T19:50:32.519293+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:50:32.773495+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:50:32.773561+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "41-76940479121241cc846091637937457a.json.636703050695362570",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:51:09.53743+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find a medium priced restaurant",
+        "Time": "2018-08-19T19:51:34.262355+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:51:34.477247+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:51:34.47731+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "32-76940479121241cc846091637937457a.json.636703051518745800",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:52:31.875677+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find me a medium priced restaurant",
+        "Time": "2018-08-19T19:52:53.246684+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:52:53.480183+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:52:53.480247+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "8-1f86d28fbaed435e89046c0d27d76028.json.636703054515129650",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T19:57:31.514106+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a mid priced restaurant",
+        "Time": "2018-08-19T19:57:48.861916+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T19:57:49.117366+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T19:57:49.117429+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "0-fcf3606093084a4aad481506afd17f94.json.636703059581702290",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:05:58.171335+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "i'm looking for a medium priced restraunt",
+        "Time": "2018-08-19T20:06:33.231531+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What should I find ?",
+        "Time": "2018-08-19T20:06:33.40828+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a medium priced restraunt",
+        "Time": "2018-08-19T20:06:42.268686+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'restraunt' mean?",
+        "Time": "2018-08-19T20:06:42.347566+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "restaraunt",
+        "Time": "2018-08-19T20:06:53.058737+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know those words. Could you put restraunt differently?",
+        "Time": "2018-08-19T20:06:53.070082+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "restaurant",
+        "Time": "2018-08-19T20:07:04.970576+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that restraunt means restaurant ?",
+        "Time": "2018-08-19T20:07:04.984598+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T20:07:10.853053+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Thank you. What should I do with restaurant?",
+        "Time": "2018-08-19T20:07:10.868729+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find me a medium priced one",
+        "Time": "2018-08-19T20:07:19.263635+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:07:21.557736+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:07:21.557802+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "39-fcf3606093084a4aad481506afd17f94.json.636703060750596380",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:07:55.060739+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "i would like the name of a restaurant please",
+        "Time": "2018-08-19T20:08:29.287082+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T20:08:29.37759+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a medium priced one",
+        "Time": "2018-08-19T20:08:36.89766+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:08:37.102138+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:08:37.102202+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "5-8641191ae24544e284b4e08039027cee.json.636703063315025350",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:12:11.50364+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I am looking for a medium priced restaurant",
+        "Time": "2018-08-19T20:12:39.466914+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:12:39.727965+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:12:39.728027+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "40-cb7aeb88b0a94387a505cf1ef31c446b.json.636703065030818720",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:15:03.082969+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find me a medium priced restaurant",
+        "Time": "2018-08-19T20:16:01.888543+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:16:02.119616+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:16:02.119678+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "6-cb7aeb88b0a94387a505cf1ef31c446b.json.636703065932910340",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:16:33.292223+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find me a medium priced restaurant",
+        "Time": "2018-08-19T20:17:20.72203+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:17:20.939067+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:17:20.93913+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "36-61d29e840c98426fb414eb1d99e618f6.json.636703067533531270",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:19:13.354248+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a mid priced restairant",
+        "Time": "2018-08-19T20:19:46.631001+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What should I find ?",
+        "Time": "2018-08-19T20:19:46.816102+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "good variety on the menu",
+        "Time": "2018-08-19T20:20:03.755098+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know phrase variety. What does it mean?",
+        "Time": "2018-08-19T20:20:03.778633+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "many different items",
+        "Time": "2018-08-19T20:20:12.971492+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'many items' mean?",
+        "Time": "2018-08-19T20:20:12.98437+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a lot",
+        "Time": "2018-08-19T20:20:18.565769+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "That is complicated. What does many items mean?",
+        "Time": "2018-08-19T20:20:18.579893+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "it means a lot of different things",
+        "Time": "2018-08-19T20:20:32.417356+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that many items means it ?",
+        "Time": "2018-08-19T20:20:32.485529+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T20:20:38.418103+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Thank you. What should I do with it?",
+        "Time": "2018-08-19T20:20:38.43175+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "tell me what you find",
+        "Time": "2018-08-19T20:20:49.457989+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many priceranges which one would you like?",
+        "Time": "2018-08-19T20:20:49.56403+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "5",
+        "Time": "2018-08-19T20:20:59.645831+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I suppose, you would like to find priceranges which are 5?",
+        "Time": "2018-08-19T20:20:59.660877+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "no",
+        "Time": "2018-08-19T20:21:09.621104+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know no but what should I do?",
+        "Time": "2018-08-19T20:21:09.637563+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "findnprice ranges",
+        "Time": "2018-08-19T20:21:17.169613+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'findnprice ranges' mean?",
+        "Time": "2018-08-19T20:21:17.192043+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find price range",
+        "Time": "2018-08-19T20:21:26.179645+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "[NOTE] Too much inputs. The task should be easier - use simple phrases. Type reset to start the dialog from beginning.",
+        "Time": "2018-08-19T20:21:26.179801+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "21-2448e335a30e414ab026130c127a8f00.json.636703070780664240",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:24:38.067564+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurant",
+        "Time": "2018-08-19T20:24:52.77734+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T20:24:52.820484+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "name of restaurant",
+        "Time": "2018-08-19T20:25:02.669175+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know name but what should I do?",
+        "Time": "2018-08-19T20:25:02.693247+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "give me name of medium priced restaurant",
+        "Time": "2018-08-19T20:25:17.087262+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:25:18.014964+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:25:18.015034+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "49-b69f9ceb6dbf426cb7c02c4396599953.json.636703071882313030",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:26:28.232153+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "restaurants",
+        "Time": "2018-08-19T20:26:53.691187+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know restaurant but what should I do?",
+        "Time": "2018-08-19T20:26:53.700642+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurant",
+        "Time": "2018-08-19T20:27:00.170836+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T20:27:00.224107+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "list restaurant",
+        "Time": "2018-08-19T20:27:07.56971+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T20:27:07.59125+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium",
+        "Time": "2018-08-19T20:27:12.874388+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:27:12.891072+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:27:12.891121+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "31-b69f9ceb6dbf426cb7c02c4396599953.json.636703072729331110",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:27:52.934227+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "food",
+        "Time": "2018-08-19T20:28:01.991439+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know food but what should I do?",
+        "Time": "2018-08-19T20:28:02.000599+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "list restaurants",
+        "Time": "2018-08-19T20:28:10.311562+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T20:28:10.332712+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium",
+        "Time": "2018-08-19T20:28:15.030851+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:28:15.044974+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:28:15.045049+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "4-1b45cd31aa254e14bf012ea8d28008aa.json.636703082090760340",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:43:29.077144+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Can you find a medium priced restaurant for me",
+        "Time": "2018-08-19T20:44:04.687043+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:44:05.150135+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:44:05.150196+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "35-1b45cd31aa254e14bf012ea8d28008aa.json.636703082769364940",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T20:44:36.937623+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Could you find me a medium priced restaurant please",
+        "Time": "2018-08-19T20:44:57.893657+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T20:44:58.110478+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T20:44:58.110546+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "36-a82f2f6e134d4a199a1eb8d013a9e852.json.636703095247490090",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:05:24.750067+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'd like the name of a medium priced restaurant",
+        "Time": "2018-08-19T21:05:50.677656+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:05:54.515407+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:05:54.515468+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "28-f3a47c4559f44a209ef29cd75c1e5a4a.json.636703099603105850",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:12:40.312644+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a restaurant",
+        "Time": "2018-08-19T21:12:57.253621+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T21:12:57.296696+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a medium priced restaurant",
+        "Time": "2018-08-19T21:13:12.15885+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:13:12.267969+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:13:12.268032+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "16-57a5a698eea74e01880ed444f85bb047.json.636703116953761780",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:41:35.378771+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a medium priced restaurant",
+        "Time": "2018-08-19T21:42:22.559213+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:42:22.818857+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:42:22.818923+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "",
+        "Time": "2018-08-19T21:42:52.359493+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Please, tell me what should I do.",
+        "Time": "2018-08-19T21:42:52.36923+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:42:52.369287+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a restaurant in the medium price range",
+        "Time": "2018-08-19T21:43:13.337309+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T21:43:24.354897+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:43:24.35496+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "One in the medium price range",
+        "Time": "2018-08-19T21:43:50.925587+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:43:55.277824+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:43:55.277885+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "19-b100fdce3ce0490082277c075e9f9de9.json.636703117368906210",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:42:16.891703+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a place to eat",
+        "Time": "2018-08-19T21:42:45.500698+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'place' mean?",
+        "Time": "2018-08-19T21:42:45.518625+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a place to eat",
+        "Time": "2018-08-19T21:42:53.035602+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that place means restaurant ?",
+        "Time": "2018-08-19T21:42:53.059668+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T21:43:05.748754+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Thank you. What should I do with restaurant?",
+        "Time": "2018-08-19T21:43:05.764405+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find me one",
+        "Time": "2018-08-19T21:43:24.355021+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T21:43:24.386981+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced",
+        "Time": "2018-08-19T21:43:37.673178+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:43:37.711591+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:43:37.711642+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "3-b100fdce3ce0490082277c075e9f9de9.json.636703118400971340",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:44:00.09824+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find a place to eat",
+        "Time": "2018-08-19T21:44:22.712845+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T21:44:22.75519+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced",
+        "Time": "2018-08-19T21:44:32.95483+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:44:32.98809+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:44:32.988145+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "37-1123b1f4ba8943e1b24bad1598f8cf32.json.636703122319827320",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:50:31.983812+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find medium priced restaurant.",
+        "Time": "2018-08-19T21:51:01.157504+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:51:01.288505+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:51:01.28857+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find restaurant.",
+        "Time": "2018-08-19T21:52:07.166406+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T21:52:07.19282+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:52:07.192864+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced.",
+        "Time": "2018-08-19T21:52:21.416932+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:52:21.449333+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:52:21.449383+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "46-1123b1f4ba8943e1b24bad1598f8cf32.json.636703124219709850",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T21:53:41.972197+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find luxury restaurant.",
+        "Time": "2018-08-19T21:54:04.589157+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are luxury?",
+        "Time": "2018-08-19T21:54:04.616855+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes, please.",
+        "Time": "2018-08-19T21:54:09.737254+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I think, It can be pricerange or address. Which fits best the meaning of luxury?",
+        "Time": "2018-08-19T21:54:09.750544+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "address.",
+        "Time": "2018-08-19T21:54:14.198013+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I can recognize Montreal, V Parku, Balleary Street as addresss. Which of them is related to luxury?",
+        "Time": "2018-08-19T21:54:14.210419+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Balleary Street.",
+        "Time": "2018-08-19T21:54:25.378777+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "It is Caesar Palace",
+        "Time": "2018-08-19T21:54:25.417523+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Montreal.",
+        "Time": "2018-08-19T21:54:34.689142+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So you think, Caesar Palace address is Montreal ?",
+        "Time": "2018-08-19T21:54:34.70647+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes, please.",
+        "Time": "2018-08-19T21:54:48.365303+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Thank you for the information!",
+        "Time": "2018-08-19T21:54:48.38628+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced.",
+        "Time": "2018-08-19T21:55:01.253978+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T21:55:01.297417+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "pricerange.",
+        "Time": "2018-08-19T21:55:10.926321+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T21:55:10.945962+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find medium priced restaurant.",
+        "Time": "2018-08-19T21:55:27.066215+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T21:55:27.466673+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T21:55:27.466736+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "26-e259d85b354f486896baac24fad84efa.json.636703129505932380",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:02:30.595147+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I'm looking for a good medium priced restaurant in my area.",
+        "Time": "2018-08-19T22:03:40.07801+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I'm sorry, the sentence is too long. Try to use simpler sentences please.",
+        "Time": "2018-08-19T22:03:40.07883+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced local restaurant",
+        "Time": "2018-08-19T22:03:54.418173+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'local' mean?",
+        "Time": "2018-08-19T22:03:54.489082+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "close by",
+        "Time": "2018-08-19T22:04:04.781346+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "That is complicated. What does local mean?",
+        "Time": "2018-08-19T22:04:04.791167+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "close to home",
+        "Time": "2018-08-19T22:04:17.199382+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "That is complicated. What does local mean?",
+        "Time": "2018-08-19T22:04:17.218329+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "near where i live",
+        "Time": "2018-08-19T22:04:27.340994+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "How can I help you?",
+        "Time": "2018-08-19T22:04:27.365098+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium prices restaurant",
+        "Time": "2018-08-19T22:04:39.430133+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T22:04:39.48209+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "list medium priced restaurant",
+        "Time": "2018-08-19T22:04:56.179704+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:04:56.408853+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:04:56.408923+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "18-e259d85b354f486896baac24fad84efa.json.636703131821325580",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:06:22.13374+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurant",
+        "Time": "2018-08-19T22:06:49.079214+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know pricerange but what should I do?",
+        "Time": "2018-08-19T22:06:49.124707+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "20 to 40 per person",
+        "Time": "2018-08-19T22:07:03.440638+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "Please, tell me what should I do.",
+        "Time": "2018-08-19T22:07:03.464801+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "list medium priced restaurant",
+        "Time": "2018-08-19T22:07:14.402662+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:07:14.527975+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:07:14.528039+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "38-0c948e7ae55e469e90005c00217e29c3.json.636703139590374500",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:19:19.038559+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I want a restaurant that serves good food",
+        "Time": "2018-08-19T22:21:28.550866+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:21:28.648361+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "one that is not so expensive",
+        "Time": "2018-08-19T22:22:21.949271+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:22:22.042596+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "what can you do for me then?",
+        "Time": "2018-08-19T22:23:15.306764+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What should I find ?",
+        "Time": "2018-08-19T22:23:15.384574+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "food",
+        "Time": "2018-08-19T22:23:56.883587+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:23:56.907588+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "a restaurant",
+        "Time": "2018-08-19T22:24:46.856061+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know restaurant but what should I do?",
+        "Time": "2018-08-19T22:24:46.887966+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "find the best option!",
+        "Time": "2018-08-19T22:25:49.340511+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:25:49.528898+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Which one would you recommend?",
+        "Time": "2018-08-19T22:26:37.142194+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I suppose, you would like to find restaurants which are which?",
+        "Time": "2018-08-19T22:26:37.182945+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "if I want a restaurant",
+        "Time": "2018-08-19T22:27:35.774441+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:27:35.842693+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Chinese food restaurant!",
+        "Time": "2018-08-19T22:28:30.326709+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:28:30.602183+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "do you know any restaurant",
+        "Time": "2018-08-19T22:29:27.650093+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What should I partial do you know ?",
+        "Time": "2018-08-19T22:29:27.886412+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "take me to a restaurant where they have good food",
+        "Time": "2018-08-19T22:30:33.914257+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "[NOTE] Too much inputs. The task should be easier - use simple phrases. Type reset to start the dialog from beginning.",
+        "Time": "2018-08-19T22:30:33.914716+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "38-0c948e7ae55e469e90005c00217e29c3.json.636703146787172730",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:31:18.718405+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "tell me a good restaurant",
+        "Time": "2018-08-19T22:33:07.301636+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:33:07.325761+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurent",
+        "Time": "2018-08-19T22:34:00.377663+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:34:00.445664+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:34:00.445731+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "14-5c059b40f5ba47319cdafb46f655f949.json.636703148551033250",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:34:15.104406+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I would like to find a medium priced restaurant",
+        "Time": "2018-08-19T22:35:52.792215+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:35:53.015863+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:35:53.015926+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "33-0c948e7ae55e469e90005c00217e29c3.json.636703148784332710",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:34:38.434382+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "tell me a good restaurant",
+        "Time": "2018-08-19T22:35:29.794079+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:35:29.816676+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "medium priced restaurant",
+        "Time": "2018-08-19T22:36:05.245908+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:36:05.332459+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:36:05.332515+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "1-5c059b40f5ba47319cdafb46f655f949.json.636703149962853760",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:36:36.286443+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I need to find a restaurant. Could you help me?",
+        "Time": "2018-08-19T22:37:13.450115+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are find?",
+        "Time": "2018-08-19T22:37:13.543746+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "No, I would like to find a medium priced restaurant",
+        "Time": "2018-08-19T22:38:45.73836+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:38:58.301436+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:38:58.3015+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "9-deb29812a4c8439f9ad175f9a1525004.json.636703151709098370",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:39:30.910576+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Please find me a medium priced restaurant",
+        "Time": "2018-08-19T22:40:11.469305+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:40:11.69546+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:40:11.695521+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "47-deb29812a4c8439f9ad175f9a1525004.json.636703152524876690",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "override-1",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:40:52.488608+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "decent priced restaurant",
+        "Time": "2018-08-19T22:41:32.963437+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'decent' mean?",
+        "Time": "2018-08-19T22:41:32.991644+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "not too expensive",
+        "Time": "2018-08-19T22:42:08.60537+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that decent means expensive ?",
+        "Time": "2018-08-19T22:42:08.6285+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "47-deb29812a4c8439f9ad175f9a1525004.json.636703153629311160",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:42:42.932316+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "affordable restaurant",
+        "Time": "2018-08-19T22:43:05.868475+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'affordable' mean?",
+        "Time": "2018-08-19T22:43:05.882148+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "not too expensive",
+        "Time": "2018-08-19T22:43:49.175742+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that affordable means expensive ?",
+        "Time": "2018-08-19T22:43:49.19958+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "No. Affordable is the opposite of expensive",
+        "Time": "2018-08-19T22:44:20.81751+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So you think, nothing pricerange is expensive ?",
+        "Time": "2018-08-19T22:44:21.59709+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "No",
+        "Time": "2018-08-19T22:44:43.202376+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know no but what should I do?",
+        "Time": "2018-08-19T22:44:43.221471+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find medium priced restaurant",
+        "Time": "2018-08-19T22:45:04.262954+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:45:04.509937+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:45:04.510001+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "25-a6ad86f6abb54d0d8e8bde550b707483.json.636703154488264500",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:44:08.82753+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I want to find a restaurant",
+        "Time": "2018-08-19T22:44:39.669971+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are find?",
+        "Time": "2018-08-19T22:44:39.717123+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I want to find a modest restaurant",
+        "Time": "2018-08-19T22:44:51.002638+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you would like to find restaurants which are modest?",
+        "Time": "2018-08-19T22:44:51.076831+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "yes",
+        "Time": "2018-08-19T22:44:53.107532+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does modest mean?",
+        "Time": "2018-08-19T22:44:53.12439+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Medium priced",
+        "Time": "2018-08-19T22:44:56.936151+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "It is too complex for me. Could you use different words?",
+        "Time": "2018-08-19T22:44:56.970788+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Not too expensive",
+        "Time": "2018-08-19T22:45:10.739445+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "What does 'too' mean?",
+        "Time": "2018-08-19T22:45:10.764142+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Not expensive",
+        "Time": "2018-08-19T22:45:19.661435+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "So, you think that too means expensive ?",
+        "Time": "2018-08-19T22:45:19.677253+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "No",
+        "Time": "2018-08-19T22:45:34.508116+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know no but what should I do?",
+        "Time": "2018-08-19T22:45:34.531067+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a cheap restaurant",
+        "Time": "2018-08-19T22:45:56.456703+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I found Chinese Bistro",
+        "Time": "2018-08-19T22:45:56.93414+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "Find a restaurant that is not too expensive",
+        "Time": "2018-08-19T22:46:22.100871+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:46:23.452135+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "A medium priced one",
+        "Time": "2018-08-19T22:46:50.744211+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:46:52.609949+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:46:52.610014+02:00"
+      }
+    ]
+  },
+  {
+    "Id": "2-f82d8507c6124054b6a28061b54926f9.json.636703160220413550",
+    "Task": "Find a restaurant.",
+    "ManualAnnotation": "valid",
+    "SuccessCode": -1,
+    "ExperimentId": "composition_learning0",
+    "DialogEvents": [
+      {
+        "Type": "T_response",
+        "Text": "Hello, how can I help you?",
+        "Time": "2018-08-19T22:53:42.042425+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "I would like to find a restaurant",
+        "Time": "2018-08-19T22:54:22.91095+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I know many restaurants which one would you like?",
+        "Time": "2018-08-19T22:54:22.941698+02:00"
+      },
+      {
+        "Type": "T_utterance",
+        "Text": "One that is medium priced",
+        "Time": "2018-08-19T22:54:30.617364+02:00"
+      },
+      {
+        "Type": "T_response",
+        "Text": "I don't know anything like that.",
+        "Time": "2018-08-19T22:54:30.725945+02:00"
+      },
+      {
+        "Type": "T_completition",
+        "Text": "Success: -1, Find a restaurant.",
+        "Time": "2018-08-19T22:54:30.726001+02:00"
+      }
+    ]
+  }
+]
